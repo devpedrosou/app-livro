@@ -11,14 +11,14 @@ Fiz este Projeto na sala de aula do curso da RESILIA em conjunto com o SENAC, PR
 
 <h1> Resultado Cliente:
 
-![image](/img/cliente.png)
+![image](/img/cliente1.png)
 
 ![image](/img/cliente2.png)
 
 Resultado Livro:</h1>
 
-![image](/img/livro2.png)
+![image](/img/livro1.png)
 
-![image](/img/livro.png)
+![image](/img/livro2.png)
 
 <h2> Espero que gostem! :) </h2>
