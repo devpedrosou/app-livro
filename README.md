@@ -1,6 +1,6 @@
 # Projeto Individual, APP Livro.
 
-<h2>Neste Porjeto, utilizei somente a linguagens:<p>
+<h2>Neste Porjeto, utilizei somente as linguagens:<p>
 
 ![image](/img/js.png)
 ![image](https://user-images.githubusercontent.com/56053290/218258400-46b576f3-03c0-4557-b984-189c104e5a51.png)
