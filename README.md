@@ -1,4 +1,4 @@
-# Projeto Individual, APP Livro.
+# Projeto Individual, APP Livro🧑🏾‍💻.
 
 <h2>Neste Porjeto, utilizei somente as linguagens:<p>
 
